@@ -10,6 +10,14 @@ Official public repository for [hermes-agent.us](https://hermes-agent.us). Herme
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+![Hermes Agent homepage](assets/screenshots/homepage.png)
+
+| Deployment guidance | OpenClaw comparison |
+| --- | --- |
+| ![Hermes Agent deployment guidance](assets/screenshots/deploy.png) | ![Hermes Agent OpenClaw comparison](assets/screenshots/compare-openclaw.png) |
+
 ## Product Focus
 
 - Developers evaluating self-hosted agent runtimes
