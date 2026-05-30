@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Upstream Hermes Agent runtime
+    url: https://github.com/NousResearch/hermes-agent
+    about: Report runtime implementation issues to the upstream project.
+  - name: Security report
+    url: https://github.com/hermes-agent-us/hermes-agent/security/advisories/new
+    about: Report vulnerabilities privately instead of opening a public issue.

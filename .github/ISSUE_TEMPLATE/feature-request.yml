@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest an improvement to the website, docs, or managed hosting surface.
+title: "[Feature]: "
+labels: ["type: feature", "status: needs triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What user problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: Describe the change you would like to see.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Optional context on other approaches.
+    validations:
+      required: false

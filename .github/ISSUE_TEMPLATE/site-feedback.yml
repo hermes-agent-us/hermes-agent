@@ -1,0 +1,26 @@
+name: Site feedback
+description: Report a problem with hermes-agent.us content or navigation.
+title: "[Site]: "
+labels: ["type: content", "status: needs triage"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      placeholder: https://hermes-agent.us/...
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What should be changed?
+      description: Describe the incorrect, unclear, or missing content.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or context
+      description: Add links, screenshots, or references when helpful. Do not include private data.
+    validations:
+      required: false

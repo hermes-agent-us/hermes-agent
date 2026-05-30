@@ -1,0 +1,32 @@
+name: Deployment question
+description: Ask a public deployment or managed hosting question.
+title: "[Deploy]: "
+labels: ["area: deploy", "status: needs triage"]
+body:
+  - type: dropdown
+    id: path
+    attributes:
+      label: Deployment path
+      options:
+        - Local setup
+        - Docker
+        - VPS or cloud server
+        - Managed hosting
+        - Open WebUI integration
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Explain what you are trying to do and where you are blocked.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment details
+      description: Include public OS/runtime details if relevant. Do not include secrets.
+    validations:
+      required: false
