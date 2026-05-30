@@ -1,48 +1,51 @@
-# Hermes Agent
-
 <p align="center">
-  <img src="./assets/hermes-agent-logo.png" alt="Hermes Agent logo" width="128" />
+  <a href="https://hermes-agent.us">
+    <img src="assets/hermes-agent-logo.png" alt="Hermes Agent logo" width="112" />
+  </a>
 </p>
 
-This is the official public feedback and roadmap repository for [hermes-agent.us](https://hermes-agent.us).
+# Hermes Agent
 
-Hermes Agent is a site for evaluating and operating Hermes Agent as a persistent, self-hosted AI agent runtime. The site focuses on practical deployment choices, managed hosting, Open WebUI compatibility, OpenAI-compatible API access, OpenClaw comparison context, and adoption signals such as GitHub activity.
+Official public repository for [hermes-agent.us](https://hermes-agent.us). Hermes Agent helps technical users evaluate persistent AI agent runtime options through deployment guidance, managed hosting, Open WebUI context, OpenAI-compatible API reuse, and comparison material.
 
-This repository is intentionally not a copy of the upstream runtime code. For the Hermes Agent implementation maintained by Nous Research, visit [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent).
+This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
-## What belongs here
+## Product Focus
 
-- Website feedback for hermes-agent.us
-- Deployment guide corrections or missing setup notes
-- Managed hosting questions and product feedback
-- Open WebUI integration notes
-- OpenClaw comparison corrections
-- Public roadmap discussion
+- Developers evaluating self-hosted agent runtimes
+- Teams comparing Hermes Agent with OpenClaw-style alternatives
+- Users who want managed cloud hosting with a hosted WebUI path
+- Operators deploying through local, Docker, VPS, cloud, or managed hosting routes
 
-## What does not belong here
+## Main Workflows
 
-- Private account, payment, or credential details
-- Vulnerability reports with exploit details
-- Pull requests that copy the production website application source
-- Runtime bugs that should be reported directly to the upstream Hermes Agent project
+- Review local install, Docker, VPS, cloud, and managed hosting guidance.
+- Understand managed cloud hosting and hosted WebUI launch paths.
+- Compare Hermes Agent with OpenClaw using public comparison pages.
+- Use OpenAI-compatible API context for Open WebUI and other clients.
+- Evaluate persistent memory and reusable skills as runtime-oriented product ideas.
 
-## Useful Links
+## What To Open Here
+
+- Deployment guide corrections for local, Docker, VPS, cloud, or managed hosting
+- Managed hosting launch, entitlement, or runtime-status clarity issues
+- Open WebUI and OpenAI-compatible API documentation feedback
+- Comparison-page feedback where wording, scope, or caveats need tightening
+
+## Repository Boundary
+
+- Public issues and discussions are welcome when they improve the live product experience.
+- Do not post private account data, secrets, payment details, uploaded personal media, or sensitive logs.
+- Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
+- Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
+
+## Official Links
 
 - Website: [hermes-agent.us](https://hermes-agent.us)
-- Upstream runtime: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- Issues: [Report site feedback](https://github.com/hermes-agent-us/hermes-agent/issues)
-- Discussions: [Product and deployment discussions](https://github.com/hermes-agent-us/hermes-agent/discussions)
-- Security: [Responsible disclosure](./SECURITY.md)
+- Roadmap: [ROADMAP.md](ROADMAP.md)
+- Support: [SUPPORT.md](SUPPORT.md)
+- Security: [SECURITY.md](SECURITY.md)
 
-## Current Focus
+## Support
 
-We are using this repository to keep the public product surface organized:
-
-- Make the deployment paths clear for local, Docker, VPS, cloud, and managed hosting users.
-- Keep managed hosting expectations precise, including what is included today and what is planned.
-- Keep comparison pages factual and useful for users evaluating Hermes Agent against adjacent tools.
-- Gather recurring questions into public documentation instead of one-off support replies.
-
-## Contributing
-
-Small documentation fixes, factual corrections, and clear reproduction notes are welcome. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening an issue or pull request.
+For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email support@hermes-agent.us.

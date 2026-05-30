@@ -1,9 +1,11 @@
 # Changelog
 
-All notable public repository changes will be documented here.
-
 ## 2026-05-30
 
-- Created the public feedback and roadmap repository for hermes-agent.us.
-- Added issue templates, support policy, security policy, and contribution guidelines.
-- Added a public organization profile entry for Hermes Agent.
+- Reworked the public repository documentation around Hermes Agent's actual product scope.
+- Updated roadmap, support, security, and contribution guidance for hermes-agent.us.
+- Clarified that this repository is a public feedback and product-information home, not the private production source tree.
+
+## 2026-05-29
+
+- Created the official public repository structure.
