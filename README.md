@@ -6,7 +6,7 @@
 
 # Hermes Agent
 
-Official public repository for [hermes-agent.us](https://hermes-agent.us). Hermes Agent helps technical users evaluate persistent AI agent runtime options through deployment guidance, managed hosting, Open WebUI context, OpenAI-compatible API reuse, and comparison material.
+Official public repository for [Hermes Agent persistent AI agent runtime](https://hermes-agent.us). Hermes Agent helps technical users evaluate persistent AI agent runtime options through deployment guidance, managed hosting, Open WebUI context, OpenAI-compatible API reuse, and comparison material.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
@@ -47,13 +47,21 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
 - Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Official Links
+## Product Feature Links
 
-- Website: [hermes-agent.us](https://hermes-agent.us)
-- Roadmap: [ROADMAP.md](ROADMAP.md)
-- Support: [SUPPORT.md](SUPPORT.md)
-- Security: [SECURITY.md](SECURITY.md)
+- [Hermes Agent persistent AI agent runtime](https://hermes-agent.us): Review persistent AI agent runtime options, managed hosting, and deployment context.
+- [Hermes Agent deployment guide](https://hermes-agent.us/deploy): Compare local, Docker, VPS, cloud, and managed deployment routes.
 
-## Support
+## Recent Updates
 
-For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email support@hermes-agent.us.
+- 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
+- 2026-07: Separated repository, feedback, and support routes from product feature links to avoid duplicate product URLs.
+
+## Repository Links
+
+| Destination | Link |
+| --- | --- |
+| Primary GitHub repository | [Hermes Agent primary GitHub repository](https://github.com/hermes-agent-us/hermes-agent) |
+| Roadmap | [ROADMAP.md](ROADMAP.md) |
+| Support | [SUPPORT.md](SUPPORT.md) |
+| Security | [SECURITY.md](SECURITY.md) |
