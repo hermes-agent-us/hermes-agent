@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve Hermes Agent. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [hermes-agent.us](https://hermes-agent.us).
+Thanks for helping improve Hermes Agent. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [Hermes Agent persistent AI agent runtime](https://hermes-agent.us).
 
 ## Good Contributions
 

@@ -1,6 +1,6 @@
 # Support
 
-This repository supports public product feedback for [Hermes Agent](https://hermes-agent.us). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
+This repository supports public product feedback for [Hermes Agent persistent AI agent runtime](https://hermes-agent.us). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
 
 ## Best Public Reports
 

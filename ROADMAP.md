@@ -1,6 +1,6 @@
 # Hermes Agent Public Roadmap
 
-This roadmap summarizes product directions we are evaluating or actively improving for [hermes-agent.us](https://hermes-agent.us). It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [Hermes Agent persistent AI agent runtime](https://hermes-agent.us). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
 ## Now
 
